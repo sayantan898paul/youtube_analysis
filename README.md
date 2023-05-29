@@ -2,12 +2,12 @@
 End to end data engineering project using kaggle youtube dataset
 
 
-Overview
+# Overview
 -The goal of this project is to organize, simplify, and analyze structured and semi-structured YouTube video data in a secure manner using video category and trend indicators.
 
 
 
-Project Goals:
+# Project Goals:
 
 Data Ingestion — Build a mechanism to ingest data from different sources
 ETL System — We are getting data in raw format, transforming this data into the proper format
@@ -19,7 +19,7 @@ Reporting — Build a dashboard to get answers to the question we asked earlier
 
 
 
-Services we will be using:
+# Services we will be using:
 
 Amazon S3: Amazon S3 is an object storage service that provides manufacturing scalability, data availability, security, and performance.
 AWS IAM: This is nothing but identity and access management which enables us to manage access to AWS services and resources securely.
