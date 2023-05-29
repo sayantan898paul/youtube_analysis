@@ -27,3 +27,7 @@ QuickSight: Amazon QuickSight is a scalable, serverless, embeddable, machine lea
 AWS Glue: A serverless data integration service that makes it easy to discover, prepare, and combine data for analytics, machine learning, and application development.
 AWS Lambda: Lambda is a computing service that allows programmers to run code without creating or managing servers.
 AWS Athena: Athena is an interactive query service for S3 in which there is no need to load data it stays in S3.
+
+# Architecture
+
+![Architecture](https://github.com/sayantan898paul/youtube_analysis/assets/43790491/625da3b7-d7f3-4f09-9a57-ccd88a5f4b68)
